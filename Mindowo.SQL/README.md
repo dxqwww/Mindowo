@@ -6,7 +6,7 @@
 
 ## Solution
 
-Для начала создадим таблицы `Products` и `Categories`, 
+Для начала создадим таблицы `Products` и `Categories`,
 а затем создадим таблицу `ProductCategory` для связывания двух таблиц, используя `FOREIGN KEY`:
 
 ```sql
@@ -66,6 +66,6 @@ LEFT JOIN ProductCategory pc ON p.Id = pc.ProductId
 LEFT JOIN Categories c ON pc.CategoryId = c.Id;
 ```
 
-Результат: 
+Результат:
 
 ![Результат запроса](https://cdn.discordapp.com/attachments/1041375335150788639/1086888810132021379/image.png)

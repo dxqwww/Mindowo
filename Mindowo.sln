@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindowo.Geometry", "Mindowo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindowo.Tests", "Mindowo.Tests\Mindowo.Tests.csproj", "{586B670C-B43D-417F-BDA6-DA13F456DEC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindowo.Market", "Mindowo.Market\Mindowo.Market.csproj", "{36566651-31D4-4935-9DA7-C9B875E16E9D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindowo.SQL", "Mindowo.SQL\Mindowo.SQL.csproj", "{70D5C696-07FB-4738-A88B-5D01C1EFA7B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,9 +20,9 @@ Global
 		{586B670C-B43D-417F-BDA6-DA13F456DEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{586B670C-B43D-417F-BDA6-DA13F456DEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{586B670C-B43D-417F-BDA6-DA13F456DEC7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{36566651-31D4-4935-9DA7-C9B875E16E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{36566651-31D4-4935-9DA7-C9B875E16E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{36566651-31D4-4935-9DA7-C9B875E16E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{36566651-31D4-4935-9DA7-C9B875E16E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D5C696-07FB-4738-A88B-5D01C1EFA7B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D5C696-07FB-4738-A88B-5D01C1EFA7B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D5C696-07FB-4738-A88B-5D01C1EFA7B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D5C696-07FB-4738-A88B-5D01C1EFA7B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
