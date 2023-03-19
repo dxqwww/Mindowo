@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindowo.Geometry", "Mindowo.Geometry\Mindowo.Geometry.csproj", "{813447ED-B88B-4C4F-802C-9FFBBA5DDB3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindowo.Tests", "Mindowo.Tests\Mindowo.Tests.csproj", "{586B670C-B43D-417F-BDA6-DA13F456DEC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindowo.Market", "Mindowo.Market\Mindowo.Market.csproj", "{36566651-31D4-4935-9DA7-C9B875E16E9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{813447ED-B88B-4C4F-802C-9FFBBA5DDB3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{813447ED-B88B-4C4F-802C-9FFBBA5DDB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{813447ED-B88B-4C4F-802C-9FFBBA5DDB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{813447ED-B88B-4C4F-802C-9FFBBA5DDB3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{586B670C-B43D-417F-BDA6-DA13F456DEC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{586B670C-B43D-417F-BDA6-DA13F456DEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{586B670C-B43D-417F-BDA6-DA13F456DEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{586B670C-B43D-417F-BDA6-DA13F456DEC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36566651-31D4-4935-9DA7-C9B875E16E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36566651-31D4-4935-9DA7-C9B875E16E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36566651-31D4-4935-9DA7-C9B875E16E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36566651-31D4-4935-9DA7-C9B875E16E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
